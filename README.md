@@ -1,6 +1,6 @@
 # SomeMapReduceCases
 Hdoop2.8.5+java1.8+win10+eclipse<br>
-补充一些入门笔记
+## 补充一些入门笔记
 大数据入门（一）环境搭建，VMware15+CentOS8.1 配置<br>
 <https://blog.csdn.net/qq_34391511/article/details/104874044><br>
 大数据入门（二）Centos8,JDK 配置<br>
